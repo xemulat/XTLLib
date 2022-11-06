@@ -1,3 +1,3 @@
-# XTLib
+# XTLLib
 
 Library for XToolBox
