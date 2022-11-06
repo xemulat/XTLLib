@@ -1,5 +1,5 @@
 from psutil import cpu_count, cpu_percent, disk_usage, virtual_memory
-from XeLib import color
+from XeLib import color, getmyping
 
 def rama():
     # RAM / VMEM percent

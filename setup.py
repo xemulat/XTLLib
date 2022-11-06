@@ -2,13 +2,13 @@ from distutils.core import setup
 setup(
   name = 'XTLLib',
   packages = ['XTLLib'],
-  version = '0.2',
+  version = '0.3',
   license='mit',
   description = "Xemulated's Library for XToolBox",
   author = 'Xemulated',
   author_email = 'xemulated@tuta.io',
   url = 'https://github.com/xemulat',
-  download_url = 'https://github.com/xemulat/XTLLib/archive/refs/tags/0.2.tar.gz',
+  download_url = 'https://github.com/xemulat/XTLLib/archive/refs/tags/0.3.tar.gz',
   keywords = ['QOL', 'xemulated', 'downloader'],
   install_requires=['psutil', 'XeLib'],
   classifiers=[
