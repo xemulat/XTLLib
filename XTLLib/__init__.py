@@ -1,1 +1,1 @@
-from XTLLib.SetVars import SetVars
+from XTLLib.SetVars import *
