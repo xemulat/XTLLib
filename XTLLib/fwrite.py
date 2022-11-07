@@ -1,3 +1,5 @@
+from os import startfile
+
 def fwrite(run, filename, content):
     fp = open(filename, 'w')
     fp.write(content)

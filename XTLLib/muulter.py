@@ -1,3 +1,5 @@
+from time import sleep
+
 def muulter(org, file1, name1, namez1, fname1, 
                  file2, name2, namez2, fname2,
                  file3, name3, namez3, fname3):
