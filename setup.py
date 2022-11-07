@@ -2,14 +2,14 @@ from distutils.core import setup
 setup(
   name = 'XTLLib',
   packages = ['XTLLib'],
-  version = '0.5',
+  version = '0.7',
   license='mit',
   description = "Xemulated's Library for XToolBox",
   long_description= "Functions: achhose, fwrite, linuxdl, muulter, runaspowershell, runqol, setvars",
   author = 'Xemulated',
   author_email = 'xemulated@tuta.io',
   url = 'https://github.com/xemulat',
-  download_url = 'https://github.com/xemulat/XTLLib/archive/refs/tags/0.5.tar.gz',
+  download_url = 'https://github.com/xemulat/XTLLib/archive/refs/tags/0.7.tar.gz',
   keywords = ['QOL', 'xemulated', 'downloader'],
   install_requires=['psutil', 'XeLib', 'colorama'],
   classifiers=[

@@ -1,3 +1,5 @@
+from XeLib import cls
+
 def linuxdl(distro):
     cls()
     if   distro == 1: return("[1] Cinnamon  ", "[2] MATE      ", "[3] Xfce      ", distro) # Linux Mint
